@@ -1,0 +1,70 @@
+# Archivos generados por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos de la caché de paquetes
+[Ll]ocalPackages/
+[Pp]ackages/com.unity.package-manager*
+
+# Archivos de la configuración de Unity
+UserSettings/
+
+# Archivos de compilación
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Archivos de Unity3D
+*.unitypackage
+
+# Archivos del sistema operativo
+.DS_Store
+*.swp
+*.tmp
+*.bak
+*.pid
+
+# Archivos específicos de Visual Studio
+.vscode/
+.vs/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.idea/
+.idea/*
+*.code-workspace
+
+# Logs de depuración
+*.log
+
+# Archivos de TextMesh Pro
+[Tt]ext[Mm]esh[Pp]ro/
+
+# Archivos de colaboración de Unity
+/Assets/Plugins/Editor/JetBrains*
+/Assets/Plugins/GitHub/*
+
+# Archivos de ShaderCache
+/[Aa]ssets/[Ss]hadersCache/
+
+# Archivos de ProBuilder
+/[Aa]ssets/ProBuilder/
+
+# Otros archivos que no deseas incluir en el repositorio
